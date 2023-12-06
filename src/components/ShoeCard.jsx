@@ -5,8 +5,6 @@ const ShoeCard = ({imgURL, changeBigShoeImage, bigShoeImage}) => {
     }
   }
 
-  // eslint-disable-next-line no-debugger
-  debugger;
   return (
     <div 
       className={`
